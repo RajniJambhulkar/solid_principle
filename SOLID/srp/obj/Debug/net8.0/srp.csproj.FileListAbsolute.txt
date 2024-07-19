@@ -1,0 +1,14 @@
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\bin\Debug\net8.0\srp.exe
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\bin\Debug\net8.0\srp.deps.json
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\bin\Debug\net8.0\srp.runtimeconfig.json
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\bin\Debug\net8.0\srp.dll
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\bin\Debug\net8.0\srp.pdb
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.AssemblyInfoInputs.cache
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.AssemblyInfo.cs
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.csproj.CoreCompileInputs.cache
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.dll
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\refint\srp.dll
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.pdb
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\srp.genruntimeconfig.cache
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\srp\obj\Debug\net8.0\ref\srp.dll

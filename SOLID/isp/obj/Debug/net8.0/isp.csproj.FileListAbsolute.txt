@@ -1,0 +1,14 @@
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\bin\Debug\net8.0\isp.exe
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\bin\Debug\net8.0\isp.deps.json
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\bin\Debug\net8.0\isp.runtimeconfig.json
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\bin\Debug\net8.0\isp.dll
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\bin\Debug\net8.0\isp.pdb
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.AssemblyInfoInputs.cache
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.AssemblyInfo.cs
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.csproj.CoreCompileInputs.cache
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.dll
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\refint\isp.dll
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.pdb
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\isp.genruntimeconfig.cache
+C:\Users\rajni\OneDrive\Desktop\Solid_principles\SOLID\isp\obj\Debug\net8.0\ref\isp.dll
